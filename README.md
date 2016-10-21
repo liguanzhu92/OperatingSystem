@@ -5,5 +5,5 @@
 
 # Content
 Questions
-* ```Correct Answer```
+* **Correct Answer**
 * Normal Option
