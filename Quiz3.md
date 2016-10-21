@@ -50,6 +50,7 @@ Quiz - Week 3
 
 
 在UNIX操作系统中运行如下C语言程序：
+```
 int main()
 {
  pid_t pid;
@@ -60,6 +61,7 @@ int main()
  else
   printf ("This is the dad process, a=%d\n", ++a);
 }
+```
 假设编译链接过程正确且程序正确执行，那么运行结果是
 * ```This is the son process, a=4; This is the dad process, a=6```
 * This is the son process, a=4
